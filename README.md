@@ -17,6 +17,10 @@ Z-Tree is a new data structure for sorting, key-value mapping and multiple other
 Sorting with Z-Tree is not based on comparison and the time complexity of sorting with Z-Tree is O(n). Z-Tree is capable of sorting huge files of 1 GB in memory.
 For key-value mapping, the time complexity of adding a key/value or finding a value by key is O(1).
 
+### Z-Tree URL
+Please refer to the following URL for more information about Z-Tree. You can also find demo and document in the URL below.
+http://www.ztreesoft.com/
+
 ### What is Z-Memory Pool
 Z-Memory Pool is designed for C/C++ to allocate a large amount of memory. Z-Memory is capable of preventing memory leak and detecting memory overflow.
 
